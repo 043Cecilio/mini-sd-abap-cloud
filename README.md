@@ -1,4 +1,4 @@
-# 🛒 Mini-SD (Sales & Distribution) em ABAP Cloud
+# Mini-SD (Sales & Distribution) em ABAP Cloud
 
 <p align="center">
   <img src="https://img.shields.io/badge/SAP-ABAP%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP Cloud"/>
@@ -16,7 +16,6 @@ O **Mini-SD** é uma solução simplificada e moderna que simula os principais f
 
 O objetivo deste projeto é demonstrar, de forma didática e aderente às boas práticas atuais da SAP, como estruturar um pequeno sistema de vendas — com cadastro de clientes, produtos e pedidos — utilizando **Restricted ABAP**, **Core Data Services (CDS)** e **Object-Oriented ABAP**, tudo pronto para rodar em ambientes **SAP BTP ABAP Environment (Steampunk)**.
 
-> 💡 Este repositório é ideal para fins de **estudo**, **portfólio técnico** e **referência de arquitetura** para quem está migrando do ABAP clássico para o ABAP Cloud.
 
 ---
 
